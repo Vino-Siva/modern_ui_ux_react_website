@@ -22,6 +22,7 @@ const Header = () => {
             placeholder='Your Email Address'
             name='email'
             id='email'
+            autoComplete='email'
             required
           />
           <button type='button'>Get Started</button>
